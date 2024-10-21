@@ -1,0 +1,9 @@
+{
+    "seed":42,
+    "micro_train_batch_size":4,
+    "train_batch_size": 4,
+    "zero_stage": 2,
+    "bf16": true,
+    "adam_offload" : true,
+    "max_norm":1.0
+}
